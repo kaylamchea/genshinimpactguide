@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/drawable-v24/card.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/drawable-v24/profile_shape.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout-w600dp/activity_main.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout-w600dp/fragment_complete_registration.xml" value="0.19753086419753085" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout-w600dp/fragment_profile.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout-w600dp/fragment_register.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/activity_guide.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/activity_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/fragment_complete_registration.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/fragment_guide.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/fragment_profile.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/fragment_register.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/guide_activity.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/USER/Documents/INFO448/group-final-project-a6-gaming/GenshinGuide/app/src/main/res/layout/login.xml" value="0.17831813576494426" />
+        <entry key="app/src/main/res/drawable-v24/card.xml" value="0.2125" />
+        <entry key="app/src/main/res/drawable-v24/circle.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_book_24.xml" value="0.13703703703703704" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_person_menu.xml" value="0.13703703703703704" />
+        <entry key="app/src/main/res/drawable-v24/profile_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_gamepad_24.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_menu.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/round.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/drawable/search_bar.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/drawable/search_btn.xml" value="0.35208333333333336" />
+        <entry key="app/src/main/res/layout-w600dp/activity_guide.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/layout-w600dp/activity_main.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout-w600dp/fragment_character.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout-w600dp/fragment_complete_registration.xml" value="0.16534391534391535" />
+        <entry key="app/src/main/res/layout-w600dp/fragment_guide.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout-w600dp/fragment_profile.xml" value="0.16534391534391535" />
+        <entry key="app/src/main/res/layout-w600dp/fragment_register.xml" value="0.16534391534391535" />
+        <entry key="app/src/main/res/layout-w600dp/item_row_item.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout-w600dp/role_row_item.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout-w600dp/text_row_item.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout/activity_guide.xml" value="0.17097264437689969" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_character.xml" value="0.41411764705882353" />
+        <entry key="app/src/main/res/layout/fragment_complete_registration.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/fragment_guide.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/guide_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/guide_content.xml" value="0.16337386018237082" />
+        <entry key="app/src/main/res/layout/guide_fragment.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/item_row_item.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/role_row_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/search_btn.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/text_row_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/white_card.xml" value="0.36302083333333335" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
